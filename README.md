@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=karadumanyusuf&theme=react&hide_border=true" alt="Streak Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karadumanyusuf&theme=react" alt="Stats Card" />
 </div>
 
 ---
