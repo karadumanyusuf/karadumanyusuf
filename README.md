@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karadumanyusuf&show_icons=true&theme=react&rank_icon=github" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karadumanyusuf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
