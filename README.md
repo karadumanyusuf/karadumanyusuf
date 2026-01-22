@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png" width="100%" alt="MasterHead" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Yusuf%20Karaduman&fontSize=70" width="100%" />
   
   <h1>Hi 👋, I'm Yusuf Karaduman</h1>
   <h3>A passionate frontend developer from Turkey</h3>
@@ -27,6 +27,30 @@
 </p>
 
 ---
+---
+
+## 🚀 Featured Project: [Where to Watch](https://github.com/karadumanyusuf/WhereToWatch) 🎬
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <p>Binlerce film ve dizinin hangi platformda (Netflix, Disney+, vb.) yayınlandığını anında bulun. TMDB API ile güçlendirilmiş gerçek zamanlı veri akışı.</p>
+      <ul>
+        <li>⚡ <b>React + TypeScript</b> ile geliştirildi.</li>
+        <li>🎨 <b>Tailwind CSS</b> ile modern arayüz.</li>
+        <li>🔍 <b>TMDB API</b> entegrasyonu.</li>
+      </ul>
+      <a href="https://github.com/karadumanyusuf/WhereToWatch">
+        <img src="https://img.shields.io/badge/Koda_Göz_At-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=react&show_owner=true" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -36,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karadumanyusuf&theme=react" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karadumanyusuf&theme=react&hide_border=true" alt="streak" />
 </div>
 
 ---
