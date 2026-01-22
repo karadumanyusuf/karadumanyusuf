@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Yusuf%20Karaduman&fontSize=70" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt4bmZ4eGZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
   
   <h1>Hi 👋, I'm Yusuf Karaduman</h1>
   <h3>A passionate frontend developer from Turkey</h3>
@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karadumanyusuf&theme=react&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karadumanyusuf&show_icons=true&theme=react&rank_icon=github" alt="streak" />
 </div>
 
 ---
