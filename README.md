@@ -25,26 +25,33 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=karadumanyusuf&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karadumanyusuf&layout=compact&theme=highcontrast&hide_border=true" width="45%"/>
-</p>
-
-<table align="center" cellpadding="0" cellspacing="0" border="0">
+<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
   <tr>
-    <td align="center" style="border:0;"  width="48%">
+    <td align="center" width="48%">
+      <img src="https://github-readme-stats.vercel.app/api?username=karadumanyusuf&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true" width="100%"/>
+    </td>
+    <td width="4%"></td>
+    <td align="center" width="48%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karadumanyusuf&layout=compact&theme=highcontrast&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+    <td align="center" width="48%">
       <a href="https://www.galaxion.space/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true&custom_title=Space+Explorer+🌐" width="100%"/>
       </a>
     </td>
     <td width="4%"></td>
-    <td align="center" style="border:0;"  width="48%">
+    <td align="center" width="48%">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=highcontrast&hide_border=true" width="100%"/>
     </td>
   </tr>
 </table>
-
-
 
 ---
 
@@ -76,9 +83,8 @@
   <span><a href="https://yusufkaraduman.vercel.app"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/></a></span>
 </p>
 
-
 <p align="center">
- <a href="https://www.buymeacoffee.com/yuzarsif">
+  <a href="https://www.buymeacoffee.com/yuzarsif">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
   </a>
 </p>
