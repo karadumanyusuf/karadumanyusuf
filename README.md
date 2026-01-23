@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karadumanyusuf&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karadumanyusuf&theme=gruvbox&row=1&column=6&no-frame=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -78,19 +78,19 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/karadumanyusuf">
+  <a href="https://www.linkedin.com/in/karadumanyusuf" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
-  </a>
-  <a href="https://x.com/yusuf25bjk">
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/yusuf25bjk" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/@WebCraftGuru">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@WebCraftGuru" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>
-  </a>
-  <a href="mailto:yusuf25bjk@gmail.com">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:yusuf25bjk@gmail.com" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-  </a>
-  <a href="https://yusufkaraduman.vercel.app">
+  </a>&nbsp;&nbsp;
+  <a href="https://yusufkaraduman.vercel.app" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/>
   </a>
 </p>
