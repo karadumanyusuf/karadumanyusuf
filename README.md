@@ -58,12 +58,13 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <span><a href="https://www.linkedin.com/in/karadumanyusuf"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a></span>
-  <span><a href="https://x.com/yusuf25bjk"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40"/></a></span>
-  <span><a href="https://www.youtube.com/@WebCraftGuru"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/></a></span>
-  <span><a href="mailto:yusuf25bjk@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/></a></span>
+  <span><a href="https://www.linkedin.com/in/karadumanyusuf"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a></span>&nbsp;&nbsp;&nbsp;
+  <span><a href="https://x.com/yusuf25bjk"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40"/></a></span>&nbsp;&nbsp;&nbsp;
+  <span><a href="https://www.youtube.com/@WebCraftGuru"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/></a></span>&nbsp;&nbsp;&nbsp;
+  <span><a href="mailto:yusuf25bjk@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/></a></span>&nbsp;&nbsp;&nbsp;
   <span><a href="https://yusufkaraduman.vercel.app"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/></a></span>
 </p>
+
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/yuzarsif">
