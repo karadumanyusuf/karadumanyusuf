@@ -32,9 +32,9 @@
 
 <p align="center">
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true" width="45%"/>
-    <br/>
-    🌐 <a href="https://www.galaxion.space/"><b>Space Explorer</b></a>
+    <a href="https://www.galaxion.space/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true&custom_title=Space+Explorer+🌐" width="45%"/>
+  </a>
   </div>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <div align="center">
