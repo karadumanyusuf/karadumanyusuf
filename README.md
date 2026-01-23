@@ -13,18 +13,22 @@
 
 ---
 
-## 🐍 My Contributions (with Months)
+## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karadumanyusuf/karadumanyusuf/output/snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karadumanyusuf/karadumanyusuf/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karadumanyusuf/karadumanyusuf/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/karadumanyusuf/karadumanyusuf/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karadumanyusuf&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=karadumanyusuf&theme=highcontrast&hide_border=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karadumanyusuf&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=karadumanyusuf&theme=highcontrast&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
@@ -38,7 +42,6 @@
 ---
 
 ## 🛠️ Languages & Tools
-
 ### Programming Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
