@@ -30,19 +30,22 @@
   <img src="https://streak-stats.demolab.com/?user=karadumanyusuf&theme=highcontrast&hide_border=true" width="45%"/>
 </p>
 
-<table align="center">
+<table align="center" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td align="center">
+    <td align="center" style="border:0;">
       <a href="https://www.galaxion.space/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true&custom_title=Space+Explorer+🌐" width="320"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true&custom_title=Space+Explorer+🌐" width="420"/>
       </a>
     </td>
-    <td width="40"></td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=highcontrast&hide_border=true" width="320"/>
+
+    <td width="30"></td>
+
+    <td align="center" style="border:0;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=highcontrast&hide_border=true" width="420"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
