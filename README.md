@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karadumanyusuf&show_icons=true&theme=highcontrast&hide_border=true" width="45%"/>
-  <img src="https://streak-stats.demolab.com/?user=karadumanyusuf&theme=highcontrast&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karadumanyusuf&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karadumanyusuf&layout=compact&theme=highcontrast&hide_border=true" width="45%"/>
 </p>
 
 <table align="center" cellpadding="0" cellspacing="0" border="0">
