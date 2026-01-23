@@ -37,9 +37,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true&custom_title=Space+Explorer+🌐" width="420"/>
       </a>
     </td>
-
     <td width="30"></td>
-
     <td align="center" style="border:0;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=highcontrast&hide_border=true" width="420"/>
     </td>
