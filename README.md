@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=karadumanyusuf&theme=highcontrast&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WebCraftGuru&theme=highcontrast&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=highcontrast&hide_border=true" width="45%"/>
 </p>
 
 ---
