@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karadumanyusuf&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karadumanyusuf&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -79,19 +79,19 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/karadumanyusuf">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
   </a>
   <a href="https://x.com/yusuf25bjk">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40"/>
   </a>
   <a href="https://www.youtube.com/@WebCraftGuru">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>
   </a>
   <a href="mailto:yusuf25bjk@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
   </a>
   <a href="https://yusufkaraduman.vercel.app">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/>
   </a>
 </p>
 
