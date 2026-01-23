@@ -32,7 +32,7 @@
 
 <p align="center">
   <div align="center">
-    <a href="https://www.galaxion.space/">
+    <a href="https://www.galaxion.space/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true&custom_title=Space+Explorer+🌐" width="45%"/>
   </a>
   </div>
