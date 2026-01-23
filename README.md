@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=karadumanyusuf">
-    <img src="https://komarev.com/ghpvc/?username=karadumanyusuf&label=Profile%20views&color=00FFFF&style=flat-square" alt="karadumanyusuf's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=karadumanyusuf&label=Profile%20views&color=00FFFF&style=flat-square" />
   </a>
 </p>
 
@@ -13,14 +13,10 @@
 
 ---
 
-## 🐍 My Contributions
+## 🐍 My Contributions (with Months)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karadumanyusuf/karadumanyusuf/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karadumanyusuf/karadumanyusuf/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/karadumanyusuf/karadumanyusuf/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/karadumanyusuf/karadumanyusuf/output/snake.svg" />
 </p>
 
 ---
@@ -32,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karadumanyusuf&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karadumanyusuf&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <p align="center">
@@ -68,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karadumanyusuf&layout=compact&theme=highcontrast&hide_border=true&langs_count=10&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karadumanyusuf&layout=compact&theme=highcontrast&hide_border=true&langs_count=10" />
 </p>
 
 ---
