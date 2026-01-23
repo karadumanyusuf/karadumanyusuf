@@ -30,17 +30,19 @@
   <img src="https://streak-stats.demolab.com/?user=karadumanyusuf&theme=highcontrast&hide_border=true" width="45%"/>
 </p>
 
-<p align="center">
-  <div align="center">
-    <a href="https://www.galaxion.space/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true&custom_title=Space+Explorer+🌐" width="45%"/>
-  </a>
-  </div>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=highcontrast&hide_border=true" width="45%"/>
-  </div>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.galaxion.space/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true&custom_title=Space+Explorer+🌐" width="320"/>
+      </a>
+    </td>
+    <td width="40"></td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=highcontrast&hide_border=true" width="320"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
