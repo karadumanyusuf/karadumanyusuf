@@ -31,9 +31,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=highcontrast&hide_border=true" width="45%"/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=SpaceExplorer&theme=highcontrast&hide_border=true" width="45%"/>
+    <br/>
+    🌐 <a href="https://www.galaxion.space/"><b>Space Explorer</b></a>
+  </div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karadumanyusuf&repo=WhereToWatch&theme=highcontrast&hide_border=true" width="45%"/>
+  </div>
 </p>
+
 
 ---
 
